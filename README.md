@@ -2,7 +2,7 @@
 
 <p align="center">
 I love building real-world tech solutions ⚡ <br>
-Working on Full Stack & Machine Learning projects 🚀 <br>
+Working on Web Stack & Machine Learning projects 🚀 <br>
 Aspiring to create impactful AI-driven systems 💡
 </p>
 
